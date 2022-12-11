@@ -26,5 +26,5 @@ Personal color finder with OpenCV & python
 ## References
 ---
 - https://antilibrary.org/2673
-
+- https://blog.naver.com/dbssk6904/222714280768
 
