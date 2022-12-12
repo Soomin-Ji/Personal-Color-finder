@@ -13,6 +13,19 @@ by
 
 Personal color finder with OpenCV & python
 
+### Requirements(install): (with versions I tested on)
+- opencv (버전)
+- python
+- numpy
+- pandas
+- matplotlib
+
+### Steps of operation
+1. running webcam and recognize the face
+2. capturing the Web Caps
+3. 
+
+### Developments process
 
 ## Results
 ---
