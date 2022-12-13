@@ -14,18 +14,15 @@ by
 Personal color finder with OpenCV & python
 
 ### Requirements(install): (with versions I tested on)
-- opencv (버전)
-- python
-- numpy
-- pandas
-- matplotlib
+- opencv (4.6.0)
+- python (3.9.12)
+- numpy (1.23.5)
+- xml file !!
 
 ### Steps of operation
 1. running webcam and recognize the face
-2. capturing the Web Caps
+2. capture the Web Caps
 3. Composite image with filter
-
-### Developments process
 
 ## Results
 ---
@@ -36,6 +33,10 @@ Personal color finder with OpenCV & python
 
 ## The limitations
 ---
+1. At first, we wanted to extract the color of our faces from the captured pictures. However, the project did not go smoothly because it required studying various colors such as HSV as well as gray scale and RGB.
+We were sorry for these limitations, so we're going to study more about color extraction and recognition and develop this project.
+
+2. So instead, we had opencv recognize faces in pictures and cut the captured images accordingly and show them in combination with color palettes.
 
 ## References
 ---
