@@ -31,7 +31,8 @@ Personal color finder with OpenCV & python
 ---
 
 ### Demo
-데모나 예시를 보여주는 이미지/영상
+![image](https://user-images.githubusercontent.com/112880884/207248004-ac17c72e-3ab3-4fca-8e87-de13eed06be8.png)
+
 
 ## The limitations
 ---
