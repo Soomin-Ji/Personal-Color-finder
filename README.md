@@ -23,8 +23,7 @@ Personal color finder with OpenCV & python
 ### Steps of operation
 1. running webcam and recognize the face
 2. capturing the Web Caps
-3. extract the face color
-4. 
+3. Composite image with filter
 
 ### Developments process
 
